@@ -1,0 +1,161 @@
+@import url('httpss://fonts.googleapis.com/css?family=Roboto');
+
+
+.form-header  {
+ 
+  background:#ef8172;;
+  border-top-left-radius: 0px;
+  border-top-right-radius: 0px;
+  margin-top:50px;
+}
+
+.form-header h1 {
+  font-size: 30px;
+  text-align:center;
+  margin: 0px;
+  color:black;
+  padding:20px;
+  border-bottom:1px solid #cccccc;
+}
+/* Form Body */
+/*---------------------------------------*/
+.form-body {
+	background:#ef8172;;
+    padding:10px 40px;
+    color:white;
+  }
+  
+  .form-group{
+    margin-bottom:20px;
+  }
+  
+  .form-body .label-title{
+    color:#000000;
+    font-size: 17px;
+    font-weight: bold;
+    margin-top: 2rem;
+  }
+  .form-body .form-input1
+  {
+    box-sizing: border-box;
+    padding-left: 10px;
+    padding-right: 0px;
+    width: 100%;
+    height: 100px;
+    color: #333333;
+     border: 1px solid #d6d6d6;
+    border-radius: 4px;
+    background: white;
+    outline: none;
+
+  }
+  
+  .form-body .form-input {
+      font-size: 17px;
+      box-sizing: border-box;
+      width: 100%;
+      height: 34px;
+      padding-left: 10px;
+      padding-right: 10px;
+      color: #333333;
+      text-align: left;
+      border: 1px solid #d6d6d6;
+      border-radius: 4px;
+      background: white;
+      outline: none;
+  }
+  
+  
+    
+  
+  
+  .horizontal-group .left{
+    float:left;
+    width:49%;
+  }
+  
+  .horizontal-group .right{
+    float:right;
+    width:49%;
+  }
+ 
+  .textarea{
+    outline: none;
+    cursor:pointer;
+   
+  }
+  
+  .th , td{
+    border-collapse: collapse; 
+      padding: 12px;
+      border: 1px solid black; 
+      box-sizing: border-box;
+      padding-left: 10px;
+      padding-right: 0px;
+      width: 100%;
+      height: 20px;
+      color: #333333;
+       border: 1px solid #d6d6d6;
+      border-radius: 4px;
+      background: white;
+      outline: none;
+  
+  }
+  .th { 
+    text-align: left; 
+} 
+    
+  .form-group{
+    float:left;
+    width:49%;
+  }
+  
+  input[type="file"] {
+   outline: none;
+   cursor:pointer;
+   font-size: 17px;
+  }
+  
+  #range-label  {
+   width:15%;
+   padding:5px;
+   background-color: #1BBA93;
+   color:white;
+   border-radius: 5px;
+   font-size: 17px;
+   position: relative;
+   top:-8px;
+  }
+  
+  
+  ::-webkit-input-placeholder {
+   color:#d9d9d9;
+   
+  }
+ 
+ .button
+ {
+   margin-top:15px;
+   margin-left:350px;
+   border-radius:30px;
+ } 
+ 
+  
+   .btn {
+     display:inline-block;
+     padding:10px 20px;
+     
+     background-color: #14aa46;
+     font-size:17px;
+     border:none;
+     
+     border-radius:5px;
+     color:#bcf5e7;
+     cursor:pointer;
+  }
+  
+  .btn:hover {
+   
+    color:white;
+  }
+
